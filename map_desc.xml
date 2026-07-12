@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <map_desc>
+  <item card_num="4" island_id="0x0003" island_name="曲奇岛" strategy="很简单的新手关卡，多在后排摆放小火炉和小笼包，在前排摆上土司面包，用面粉袋来处理突发状况" type="全陆地">
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11130014" card_name="小笼包"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  </item>
+  <item card_num="5" island_id="0x0001" island_name="色拉岛（陆）" strategy="同样很简单的关卡，可乐炸弹可以一下子清除3X3范围的所有老鼠，威力巨大，记得危险时使用" type="全陆地">
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11130014" card_name="小笼包"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x0101" island_name="色拉岛（水）" strategy="水道中先要摆放上木盘子才能放置其他单位，潜水鼠很麻烦，使用土司面包来迫使他露出水面" type="陆地+单水道">
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11130014" card_name="小笼包"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  </item>
+  <item card_num="5" island_id="0x0202" island_name="慕斯岛" strategy="前期多摆放免费的咖啡杯来积攒火苗数量，冰冻小笼包可以有效地减速老鼠，火苗充裕的时候可以多用" type="全陆地">
+  <card card_id="0x11111024" card_name="酒杯灯"/>
+  <card card_id="0x11131034" card_name="咖啡杯"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11130014" card_name="小笼包"/>
+  <card card_id="0x11130050" card_name="冰冻小笼包"/>
+  </item>
+  <item card_num="5" island_id="0x0201" island_name="香槟岛（陆）" strategy="咖啡杯依然是前期主力武器，对付房东鼠使用咖啡喷壶效果最好，1-2排的4星小笼包还是必不可少的" type="全陆地">
+  <card card_id="0x11111024" card_name="酒杯灯"/>
+  <card card_id="0x11131070" card_name="咖啡喷壶"/>
+  <card card_id="0x11131034" card_name="咖啡杯"/>
+  <card card_id="0x11130014" card_name="小笼包"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  </item>
+  <item card_num="5" island_id="0x0301" island_name="香槟岛（水）" strategy="前期用咖啡杯和水上茶杯来防守陆地和水道，陆地上每行用一个咖啡喷壶来防范修理鼠，在陆地前排摆放鱼刺来第一时间削弱老鼠" type="陆地+单水道">
+  <card card_id="0x11111024" card_name="酒杯灯"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11431014" card_name="水上茶杯"/>
+  <card card_id="0x11131034" card_name="咖啡杯"/>
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  </item>
+  <item card_num="5" island_id="0x0a02" island_name="神殿" strategy="如果忍者鼠头领召唤鼠群，最好使用可乐炸弹；巨人鼠体力非常高，在它毁掉你的阵地前用可乐炸弹和面粉袋干掉它" type="全陆地">
+  <card card_id="0x11111024" card_name="酒杯灯"/>
+  <card card_id="0x11131034" card_name="咖啡杯"/>
+  <card card_id="0x11131070" card_name="咖啡喷壶"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x11130050" card_name="冰冻小笼包"/>
+  </item>
+  <item card_num="5" island_id="0x0a03" island_name="神殿(勇士）" strategy="老鼠的出现频率较高，初期就要放好咖啡杯做好基础防御，多利用咖啡喷壶的穿透效果来攻击多只老鼠" type="全陆地">
+  <card card_id="0x11111024" card_name="酒杯灯"/>
+  <card card_id="0x11131034" card_name="咖啡杯"/>
+  <card card_id="0x11131070" card_name="咖啡喷壶"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x11130050" card_name="冰冻小笼包"/>
+  </item>
+  <item card_num="5" island_id="0x0002" island_name="布丁岛（日）" strategy="地上的老鼠洞初期可以不管，火苗足够后要用木塞子把洞堵掉；工程车鼠会打击你的后排防御卡，记得要补充" type="全陆地+鼠洞">
+  <card card_id="0x11190171" card_name="木塞子"/>
+  <card card_id="0x11130020" card_name="双层小笼包"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x11120020" card_name="酒瓶炸弹"/>
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  </item>
+  <item card_num="5" island_id="0x0209" island_name="布丁岛（夜）" strategy="鼹鼠会打洞到最后一排直接从后方攻击，使用双向水管来防御它们；记得要用木塞子去堵老鼠洞" type="全陆地+鼠洞">
+  <card card_id="0x11111024" card_name="酒杯灯"/>
+  <card card_id="0x11190171" card_name="木塞子"/>
+  <card card_id="0x11130060" card_name="双向水管"/>
+  <card card_id="0x11130020" card_name="双层小笼包"/>
+  <card card_id="0x11190141" card_name="火盆"/>
+  </item>
+  <item card_num="5" island_id="0x0102" island_name="可可岛（日）" strategy="双层小笼包+火盆是你的主要阵型，摆一排香肠来对付滑翔鼠，或者直接用炸弹招呼它们" type="陆地+双水道">
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11130020" card_name="双层小笼包"/>
+  <card card_id="0x11190141" card_name="火盆"/>
+  <card card_id="0x11130110" card_name="香肠"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x0302" island_name="可可岛（夜）" strategy="不用太在意蝙蝠鼠，好好布置你的防线，水上防线仅凭水上茶杯是远远不够的，尽快换上双层小笼包和火盆的组合" type="陆地+双水道">
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11130020" card_name="双层小笼包"/>
+  <card card_id="0x11190141" card_name="火盆"/>
+  <card card_id="0x11431014" card_name="水上茶杯"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x0401" island_name="咖喱岛（日）" strategy="油灯可以用来驱散迷雾但他本身很脆弱，套个瓜皮护罩就安全了；鱼刺可以直接刺爆垃圾车鼠，如果火力不够请使用炸弹" type="陆地+迷雾">
+  <card card_id="0x11191160" card_name="油灯"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  <card card_id="0x11190141" card_name="火盆"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  </item>
+  <item card_num="5" island_id="0x0701" island_name="咖喱岛（夜）" strategy="换气扇可以吹散大雾一段时间，利用这段时间在前线设置障碍，最后出现的鼹鼠可以用酒瓶炸弹直接解决" type="陆地+单水道+迷雾">
+  <card card_id="0x11431014" card_name="水上茶杯"/>
+  <card card_id="0x11190150" card_name="换气扇"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  <card card_id="0x11120020" card_name="酒瓶炸弹"/>
+  <card card_id="0x11190141" card_name="火盆"/>
+  </item>
+  <item card_num="5" island_id="0x0901" island_name="深渊岛" strategy="在陆地的最左边摆上鱼刺可以防住鼹鼠的攻击，用3排三线酒架和1排火盆组成你的火力网，换气扇专门用来对付飞行鼠" type="陆地+单水道">
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  <card card_id="0x11190141" card_name="火盆"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11190150" card_name="换气扇"/>
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  </item>
+  <item card_num="5" island_id="0x0902" island_name="深渊岛（勇士）" strategy="鼹鼠和蝙蝠鼠的出现数量很多，要灵活运用双向水管和炸弹。被蝙蝠鼠拿走的卡片要及时补上。" type="陆地+单水道">
+  <card card_id="" card_name="双向水管"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="可乐炸弹"/>
+  <card card_id="" card_name="火盆"/>
+  </item>
+  <item card_num="5" island_id="0x0203" island_name="甜蜜岛" strategy="活动的心形特殊地图，要特别注意下方的区域，由于格子少，尽量摆上强力的攻击卡片" type="心形地图">
+  <card card_id="0x11120020" card_name="酒瓶炸弹"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  </item>
+  <item card_num="5" island_id="0x0104" island_name="芥末小屋（日）" strategy="因为有障碍物，使用投掷类卡片效果会较好。钢丝球可以代替面粉袋在水中使用，水潜艇鼠要尽快用炸弹解决。" type="水上+障碍物">
+  <card card_id="" card_name="木盘子"/>
+  <card card_id="" card_name="钢丝球"/>
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="酒瓶炸弹"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  </item>
+  <item card_num="5" island_id="0x0304" island_name="芥末小屋（夜）" strategy="水上茶杯在初期防御老鼠，后期则用多排咖啡喷壶叠加来穿透攻击。小心水潜艇鼠的破坏。" type="水上+障碍物">
+  <card card_id="" card_name="水上茶杯"/>
+  <card card_id="" card_name="咖啡喷壶"/>
+  <card card_id="" card_name="钢丝球"/>
+  <card card_id="" card_name="酒瓶炸弹"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  </item>
+  <item card_num="5" island_id="0x0004" island_name="薄荷海滩（日）" strategy="滑翔鼠用换气扇解决，瓜皮护罩用来防御非主流鼠，纵火鼠要在它丢炸弹之前解决掉。" type="陆地+障碍物">
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="面粉袋"/>
+  <card card_id="" card_name="可乐炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x0204" island_name="薄荷海滩（夜）" strategy="利用鱼刺可以较好的防御鼹鼠。陆企鹅鼠一但丢了冰炸弹，所影响到的行需要用炸弹来防止老鼠乘机而入。" type="陆地+障碍物">
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="鱼刺"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="可乐炸弹"/>
+  <card card_id="" card_name="冰桶炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x0b03" island_name="芝士城堡" strategy="初期用咖啡杯和水上茶杯摆好基本阵形，再不断攒火改成煮蛋器投手。瓜皮护罩要提前放好预防后期非主流鼠。" type="水变陆+障碍">
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="酒瓶炸弹"/>
+  <card card_id="" card_name="咖啡杯"/>
+  <card card_id="" card_name="水上茶杯"/>
+  </item>
+  <item card_num="5" island_id="0x0b04" island_name="芝士城堡（勇士）" strategy="初期老鼠出现很快，要尽快摆好卡片。遇到超高体力的老鼠时多使用炸弹类卡片" type="水变陆+障碍">
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="酒瓶炸弹"/>
+  <card card_id="" card_name="咖啡杯"/>
+  <card card_id="" card_name="冰桶炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x0105" island_name="炭烧雨林（日）" strategy="水坑用木盘子可以补上，投掷卡可以避开障碍物。油灯照幽灵鼠的范围是3x3，所以注意放置的位置。" type="水坑+障碍物">
+  <card card_id="" card_name="木盘子"/>
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="油灯"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="鱼刺"/>
+  </item>
+  <item card_num="5" island_id="0x0305" island_name="炭烧雨林（夜）" strategy="夜晚火苗产出慢，所以先放咖啡杯，再改成煮蛋器投手。滑翔鼠用换气扇依然是最快的解决办法。" type="水坑+障碍物">
+  <card card_id="" card_name="木盘子"/>
+  <card card_id="" card_name="咖啡杯"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="油灯"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  </item>
+  <item card_num="5" island_id="0x0206" island_name="抹茶庄园（夜）" strategy="因为有很多格子不能放卡，那些行需要放上强力卡片保护。老鼠过多的时候记得用炸弹解决。" type="限制地形">
+  <card card_id="" card_name="咖啡杯"/>
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="油灯"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="开水壶炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x0006" island_name="抹茶庄园（日）" strategy="地图最上和最下可以放的卡比较少，需要注意。魔笛鼠最好在吹完笛子之前就要炸掉。" type="限制地形">
+  <card card_id="" card_name="油灯"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="可乐炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x0805" island_name="玛奇朵港" strategy="风洞会让老鼠的位置往前推移3格，所以那些会推移到的位置要放好瓜皮护罩。BOSS会召唤迷雾，记得用风扇吹掉。" type="陆地+风洞">
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="可乐炸弹"/>
+  <card card_id="" card_name="面粉袋"/>
+  </item>
+  <item card_num="5" island_id="0x0807" island_name="玛奇朵港（勇士）" strategy="老鼠强大了很多，在初期就需要迅速攒火摆卡，胜负只在一念之间。" type="陆地+风洞">
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="可乐炸弹"/>
+  <card card_id="" card_name="热狗大炮"/>
+  </item>
+  <item card_num="5" island_id="0x1001" island_name="棉花糖天空（日）" strategy="云上会时不时出现小洞，要用棉花糖及时补上，同时卡片不要放得太靠前以免看不清云洞。" type="云上">
+  <card card_id="" card_name="棉花糖"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="酒瓶炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x1201" island_name="棉花糖天空（夜）" strategy="即使是夜晚也不要放松警惕。最初火苗不够时可以把卡片放在最后两排始终有云的位置。" type="云上">
+  <card card_id="" card_name="棉花糖"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="咖啡杯"/>
+  </item>
+  <item card_num="5" island_id="0x0007" island_name="果酱部落（日）" strategy="岩浆上需要放棉花糖才能放卡片，棉花糖过一段时间会破损，注意补上。不要让修理鼠靠近瓜皮护罩。" type="陆地+岩浆">
+  <card card_id="" card_name="棉花糖"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="可乐炸弹"/>
+  </item>
+  <item card_num="5" island_id="0x0207" island_name="果酱部落（夜）" strategy="夜晚的岩浆覆盖面较小，可以先放攻击卡片再放棉花糖。小心老鼠走在岩浆上会加速且无视冰冻。" type="陆地+岩浆">
+  <card card_id="" card_name="棉花糖"/>
+  <card card_id="" card_name="换气扇"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="咖啡杯"/>
+  </item>
+  <item card_num="5" island_id="0x0806" island_name="雪顶火山" strategy="岩浆分布很散，需要一边放棉花一边放卡。冰激凌用来把冷却时间偏长的卡迅速冷却以加快放卡速度。" type="陆地+岩浆">
+  <card card_id="" card_name="棉花糖"/>
+  <card card_id="" card_name="热狗大炮"/>
+  <card card_id="" card_name="瓜皮护罩"/>
+  <card card_id="" card_name="煮蛋器投手"/>
+  <card card_id="" card_name="冰激凌"/>
+  </item>
+  <item card_num="0" island_id="0x0808" island_name="雪顶火山（勇士）" strategy="已经没什么可说了，拿起你最强大的卡片，抵御住老鼠的终极进攻吧。" type="陆地+岩浆">
+  </item>
+  <item card_num="0" island_id="0x400000f1" island_name="爆米花" strategy="暂无" type="暂无">
+  </item>
+  <item card_num="0" island_id="0x400001f1" island_name="伏特加" strategy="暂无" type="暂无">
+  </item>
+  <item card_num="0" island_id="0x400002f1" island_name="火龙果" strategy="暂无" type="暂无">
+  </item>
+  <item card_num="0" island_id="0x400003f1" island_name="威士忌" strategy="暂无" type="暂无">
+  </item>
+  <item card_num="5" island_id="0x8001" island_name="茴香竹筏（日）" strategy="暂无竖向移动的地面会导致经常漏过老鼠，用跟踪系卡或双向卡防守吧！" type="移动陆地">
+  <card card_id="0x11130240" card_name="肥牛火锅"/>
+  <card card_id="0x11130250" card_name="麻辣香锅"/>
+  <card card_id="0x11130260" card_name="生煎锅"/>
+  <card card_id="0x11130060" card_name="双向水管"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  </item>
+  <item card_num="5" island_id="0x8202" island_name="茴香竹筏（夜）" strategy="夜晚有魔镜鼠出没，小心她抢夺火苗" type="移动陆地">
+  <card card_id="0x11130240" card_name="肥牛火锅"/>
+  <card card_id="0x11130250" card_name="麻辣香锅"/>
+  <card card_id="0x11130260" card_name="生煎锅"/>
+  <card card_id="0x11130060" card_name="双向水管"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  </item>
+  <item card_num="4" island_id="0x8103" island_name="孜然断桥（日）" strategy="横向移动的地面让前排卡片更加危险，用瓜皮来保护它们" type="移动陆地+水道">
+  <card card_id="0x11130240" card_name="肥牛火锅"/>
+  <card card_id="0x11130250" card_name="麻辣香锅"/>
+  <card card_id="0x11130260" card_name="生煎锅"/>
+  <card card_id="0x11130060" card_name="双向水管"/>
+  </item>
+  <item card_num="4" island_id="0x8304" island_name="孜然断桥（夜）" strategy="小心小号鼠，它让老鼠的攻势琢磨不定" type="移动陆地+水道">
+  <card card_id="0x11130240" card_name="肥牛火锅"/>
+  <card card_id="0x11130250" card_name="麻辣香锅"/>
+  <card card_id="0x11130260" card_name="生煎锅"/>
+  <card card_id="0x11130060" card_name="双向水管"/>
+  </item>
+  <item card_num="5" island_id="0x8805" island_name="卤料花园（日）" strategy="地面太少了！多用群攻型卡片来节约地面吧！" type="移动陆地">
+  <card card_id="0x11130240" card_name="肥牛火锅"/>
+  <card card_id="0x11130250" card_name="麻辣香锅"/>
+  <card card_id="0x11130260" card_name="生煎锅"/>
+  <card card_id="0x11130060" card_name="双向水管"/>
+  <card card_id="0x11630010" card_name="国王小笼包"/>
+  </item>
+  <item card_num="4" island_id="0x9006" island_name="月桂天空(日)" strategy="云层上记得用棉花糖填补漏洞，同时注意移动地块靠前位置的防御。" type="移动陆地+云上">
+  <card card_id="0x11130250" card_name="麻辣香锅"/>
+  <card card_id="0x11130260" card_name="生煎锅"/>
+  <card card_id="0x11370025" card_name="棉花糖"/>
+  <card card_id="0x11630010" card_name="国王小笼包"/>
+  </item>
+  <item card_num="5" island_id="0x9207" island_name="月桂天空(夜)" strategy="天空中的老鼠很多，多放置对空卡片进行应对" type="移动陆地+云上">
+  <card card_id="0x11370025" card_name="棉花糖"/>
+  <card card_id="0x11130140" card_name="热狗大炮"/>
+  <card card_id="0x11130250" card_name="麻辣香锅"/>
+  <card card_id="0x11630100" card_name="三向国王小笼包"/>
+  <card card_id="0x11130270" card_name="新疆炒面"/>
+  </item>
+  <item card_num="4" island_id="0x9008" island_name="香叶空港(日)" strategy="小心空中航母，在它放出老鼠前打掉可以有效减小空中压力" type="移动陆地+云上">
+  <card card_id="0x11370025" card_name="棉花糖"/>
+  <card card_id="0x11130140" card_name="热狗大炮"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x11130270" card_name="新疆炒面"/>
+  </item>
+  <item card_num="4" island_id="0x9208" island_name="香叶空港(夜)" strategy="一边注意老鼠，一边注意前方防御" type="移动陆地+云上">
+  <card card_id="0x11370025" card_name="棉花糖"/>
+  <card card_id="0x11130140" card_name="热狗大炮"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x11130270" card_name="新疆炒面"/>
+  </item>
+  <item card_num="6" island_id="0x9a09" island_name="香料飞船(夜)" strategy="一方面做好空中防御，一方面布置好高攻击卡片对付BOSS" type="移动陆地+云上">
+  <card card_id="0x11370025" card_name="棉花糖"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x11130270" card_name="新疆炒面"/>
+  <card card_id="0x11130060" card_name="双向水管"/>
+  <card card_id="0x11630100" card_name="三向国王小笼包"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  </item>
+  <item card_num="4" island_id="0x800a" island_name="花椒浮岛（日）" strategy="地面变少，地块移动复杂，需要更有策略性的放卡" type="移动陆地">
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  <card card_id="0x11130270" card_name="新疆炒面"/>
+  </item>
+  <item card_num="4" island_id="0x820b" island_name="花椒浮岛（夜）" strategy="冲锋弹簧鼠放置的弹簧会让其他老鼠往前弹老远，需要小心" type="移动陆地">
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  <card card_id="0x11130270" card_name="新疆炒面"/>
+  </item>
+  <item card_num="4" island_id="0x800c" island_name="丁香彩虹（日）" strategy="波浪形的移动地块，纵向攻击卡片会发挥很好的效果" type="移动陆地">
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11630100" card_name="三向国王小笼包"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x11190220" card_name="辣椒粉"/>
+  </item>
+  <item card_num="4" island_id="0x820d" island_name="丁香彩虹（夜）" strategy="蜂箱鼠会放出机械蜜蜂，它一出现就解决掉是个不错的做法" type="移动陆地">
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11630100" card_name="三向国王小笼包"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x11190220" card_name="辣椒粉"/>
+  </item>
+  <item card_num="4" island_id="0x880e" island_name="十三香中心岛（日）" strategy="上下行会有无卡的情况，需要使用三线和三向卡辅助" type="移动陆地">
+  <card card_id="0x11630100" card_name="三向国王小笼包"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x11190220" card_name="辣椒粉"/>
+  </item>
+  <item card_num="1" island_id="0x0023" island_name="金枪鱼洋流(日)" strategy="卡片在海底是不能呼吸的，记得为它们罩上苏打气泡。气泡变淡时记得及时补充。" type="海底白天">
+  <card card_id="0x11370034" card_name="苏打气泡"/>
+  </item>
+  <item card_num="1" island_id="0x0024" island_name="珊瑚洋流(日)" strategy="上下两侧是薄弱地点，需要有高火力卡片支持。同时，注意别让风车鱼鼠占了你的格子。" type="海底白天">
+  <card card_id="0x11370034" card_name="苏打气泡"/>
+  </item>
+  <item card_num="1" island_id="0x0233" island_name="珊瑚洋流(夜)" strategy="可以放卡的格子相比白天略多，多放一些生产类卡片用以补足火苗。苏打气泡按一定规律放置，这样补足的时候会更方便。" type="海底夜晚">
+  <card card_id="0x11370034" card_name="苏打气泡"/>
+  </item>
+  <item card_num="1" island_id="0x0809" island_name="北极贝湍流(日)" strategy="中间的行比较薄弱，可以考虑使用多行攻击的卡片进行辅助。关卡需要持久战，注意自己的火苗量和气泡情况。" type="海底白天">
+  <card card_id="0x11630100" card_name="苏打气泡"/>
+  </item>
+  <item card_num="1" island_id="0x0025" island_name="海葵洋流(日)" strategy="注意蛤蜊鼠，直线和跟踪子弹是无法造成伤害的，使用投掷类的卡片会更有效一些~" type="海底白天">
+  <card card_id="0x11370034" card_name="苏打气泡"/>
+  </item>
+  <item card_num="2" island_id="0x0234" island_name="海葵洋流(夜)" strategy="注意剑鱼鼠，它会以很快的速度击杀你一整行的卡片。建议使用蟹壳面包抵挡。" type="海底夜晚">
+  <card card_id="0x11370034" card_name="苏打气泡"/>
+  <card card_id="0x11140034" card_name="老虎蟹面包"/>
+  </item>
+  <item card_num="2" island_id="0x0a04" island_name="天妇罗旋涡(夜)" strategy="中间行比较薄弱，需要计划好在哪里放什么卡。这关需要持久战，要记得收集火苗和补充气泡。" type="海底夜晚"> 
+  <card card_id="0x11370034" card_name="苏打气泡"/>
+  <card card_id="0x11140034" card_name="老虎蟹面包"/>
+  </item>
+  <item card_num="5" island_id="0x0059" island_name="戚风营地(日)" strategy="轮胎鼠的威胁很高，注意使用鱼刺类卡片。小心飞毯鼠破坏后方阵型。" type="营地白天">
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  <card card_id="0x11120940" card_name="糖渍刺梨"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  </item> 
+  <item card_num="5" island_id="0x025c" island_name="戚风营地(夜)" strategy="斜坡障碍不仅会阻挡子弹，还会使越野车鼠快速向后方冲刺，在落地点摆放鱼刺是比较好的选择。" type="营地夜晚">
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  <card card_id="0x11120940" card_name="糖渍刺梨"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  </item> 
+  <item card_num="5" island_id="0x0121" island_name="冰啤酒吧(日)" strategy="酒桶鼠并不害怕炸弹，只有充足的火力才能打败它们。保证储存的火苗数量才能和饮料贩卖机持久作战。" type="营地白天">
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  <card card_id="0x11120940" card_name="糖渍刺梨"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  </item> 
+  <item card_num="6" island_id="0x031b" island_name="冰啤酒吧(夜)" strategy="范围极大的迷雾需要油灯驱散，同时轮胎鼠和越野车鼠会不断破坏前方阵型，多方向型攻击卡片更具优势。" type="营地夜晚">
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  <card card_id="0x11120940" card_name="糖渍刺梨"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11191160" card_name="油灯"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  </item> 
+  <item card_num="5" island_id="0x005a" island_name="坚果高台(日)" strategy="使用单体伤害较高的卡片快速处理越野车鼠。小心抢夺火苗的人面曲奇，尽快破坏以免生成更多。" type="营地白天">
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  <card card_id="0x11120940" card_name="糖渍刺梨"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x11120950" card_name="坚果爆炒机"/>
+  </item> 
+  <item card_num="5" island_id="0x025d" island_name="坚果高台(夜)" strategy="尽量在越野车鼠第二次飞跃前处理掉它，充足的火力才能破坏人面曲奇和酒桶鼠。" type="营地夜晚">
+  <card card_id="0x11120940" card_name="糖渍刺梨"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x11120950" card_name="坚果爆炒机"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  </item>
+    <item card_num="5" island_id="0x003a" island_name="芦荟沙丘（日）" strategy="注意龙卷风的位置，提前摆放防风草沙拉。鼹鼠会在后排露出地面，保护好阵营后方的卡片。" type="沙漠白天">
+  <card card_id="0x11121060" card_name="防风草沙拉"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x11130060" card_name="双向水管"/>
+  <card card_id="0x11190150" card_name="换气扇"/>
+  </item> 
+  <item card_num="5" island_id="0x0241" island_name="芦荟沙丘（夜）" strategy="注意龙卷风的位置，提前摆放防风草沙拉。安全区线路有障碍物阻挡，推荐使用投掷类卡片。" type="沙漠夜晚">
+  <card card_id="0x11121060" card_name="防风草沙拉"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  <card card_id="0x111304c0" card_name="烤蜥蜴投手"/>
+  <card card_id="0x11130060" card_name="双向水管"/>
+  <card card_id="0x11190150" card_name="换气扇"/>
+  </item> 
+  <item card_num="4" island_id="0x0904" island_name="沙棘绿洲" strategy="水路占据了大片区域，要合理安排防风草沙拉的位置，沙尘暴的侵蚀速度很快，及时摆放棕榈吹风机恢复视野。" type="沙漠白天">
+  <card card_id="0x11140210" card_name="棕榈吹风机"/>
+  <card card_id="0x11121060" card_name="防风草沙拉"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x111304c0" card_name="烤蜥蜴投手"/>
+  </item> 
+  <item card_num="4" island_id="0x003b" island_name="仙人掌盆地（日）" strategy="使用棕榈吹风机恢复视野，同时尽快清理经常出现在障碍物后的技能类老鼠。" type="沙漠白天">
+  <card card_id="0x11140210" card_name="棕榈吹风机"/>
+  <card card_id="0x111304c0" card_name="烤蜥蜴投手"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x11190150" card_name="换气扇"/>
+  </item> 
+  <item card_num="5" island_id="0x0242" island_name="仙人掌盆地（夜）" strategy="龙卷风会不断出现，移动方向也更加不利，保护已经摆好的阵型。尽快处理仙人球鼠，防止仙人球占据格子。" type="沙漠夜晚">
+  <card card_id="0x11140210" card_name="棕榈吹风机"/>
+  <card card_id="0x11121060" card_name="防风草沙拉"/>
+  <card card_id="0x111304c0" card_name="烤蜥蜴投手"/>
+  <card card_id="0x111304e0" card_name="仙人掌刺身"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  </item> 
+  <item card_num="5" island_id="0x0a06" island_name="蜥蜴戈壁" strategy="地图中心会生成四个方向的龙卷风，在合适的位置摆放防风草沙拉保证输出的火力。" type="沙漠夜晚">
+  <card card_id="0x11140210" card_name="棕榈吹风机"/>
+  <card card_id="0x11121060" card_name="防风草沙拉"/>
+  <card card_id="0x111304c0" card_name="烤蜥蜴投手"/>
+  <card card_id="0x111304e0" card_name="仙人掌刺身"/>
+  <card card_id="0x11121010" card_name="开水壶炸弹"/>
+  </item> 
+  <item card_num="4" island_id="0x003c" island_name="鱼骨沙漠（日）" strategy="空中的热气球鼠威胁很高，需要较多的对空单位，同时对地单位也要尽快消灭特洛伊木马。" type="沙漠白天">
+  <card card_id="0x11140210" card_name="棕榈吹风机"/>
+  <card card_id="0x111304c0" card_name="烤蜥蜴投手"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  </item> 
+  <item card_num="4" island_id="0x0243" island_name="鱼骨沙漠（夜）" strategy="众多的障碍物会阻碍输出，使用投掷类卡片会有更好的效果，多带一些输出卡快速布阵以度过前期。" type="沙漠夜晚">
+  <card card_id="0x11121060" card_name="防风草沙拉"/>
+  <card card_id="0x111304c0" card_name="烤蜥蜴投手"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  <card card_id="0x11121010" card_name="开水壶炸弹"/>
+  </item> 
+  <item card_num="6" island_id="0x080b" island_name="库库尔金字塔" strategy="上下两侧可种植的格子更少了，地图需要打持久战，多带些产火和辅助卡片帮助度过前期。" type="沙漠白天">
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11140210" card_name="棕榈吹风机"/>
+  <card card_id="0x11121060" card_name="防风草沙拉"/>
+  <card card_id="0x111304c0" card_name="烤蜥蜴投手"/>
+  <card card_id="0x111304e0" card_name="仙人掌刺身"/>
+  <card card_id="0x113901d0" card_name="冰激凌"/>
+  </item>
+   <item card_num="3" island_id="0x0048" island_name="动感街区(日)" strategy="街区里横冲直撞的车流会碾压卡片,雷火也会时不时从天而降击晕并持续灼烧美食卡片,使用护罩或棉花糖保护卡片免于灼伤。" type="雷城白天"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  <card card_id="0x11370025" card_name="棉花糖"/>
+  </item>
+  <item card_num="4" island_id="0x024e" island_name="动感街区(夜)" strategy="夜晚车来车往，雷电也更加频繁，带上防空卡尽快消灭飞行喷火鼠,也可以试试把它吹走。" type="雷城夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x111300b0" card_name="三线酒架"/>
+  <card card_id="0x11370025" card_name="棉花糖"/>
+  </item>
+  <item card_num="5" island_id="0x0049" island_name="蛋糕钟楼(日)" strategy="钟楼没有车流,但雷电频繁,还有可爱但可怕的瓦力鼠,如果它的花盆掉要立即炸掉它,或者全投手阵容也是一个选择。" type="雷城白天"> 
+	<card card_id="0x11110014" card_name="小火炉"/>
+	<card card_id="0x11120034" card_name="可乐炸弹"/>
+	<card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+	<card card_id="0x111300a0" card_name="煮蛋器投手"/>
+	<card card_id="0x11370025" card_name="棉花糖"/>
+  </item>
+  <item card_num="5" island_id="0x024f" island_name="蛋糕钟楼(夜)" strategy="钟楼出现了航母,空中压力上升！注意电吉他鼠,它能大大提高场上老鼠的速度体力，也要记得提前储备对抗两名BOSS的火苗。" type="雷城夜晚"> 
+	<card card_id="0x11110014" card_name="小火炉"/>
+	<card card_id="0x11120034" card_name="可乐炸弹"/>
+	<card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+	<card card_id="0x11120460" card_name="炙烤灯笼鱼"/>
+	<card card_id="0x11370060" card_name="麦芽糖"/>
+  </item>
+  <item card_num="5" island_id="0x080c" island_name="莓莓音乐节(日)" strategy="携带投掷或穿透型卡片可以无视舞台的阻挡，雷电范围笼罩全场，要注意保护卡片噢!" type="雷城白天"> 
+	<card card_id="0x11110014" card_name="小火炉"/>
+	<card card_id="0x11120034" card_name="可乐炸弹"/>
+	<card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+	<card card_id="0x11120460" card_name="炙烤灯笼鱼"/>
+	<card card_id="0x11370060" card_name="麦芽糖"/>
+  </item>
+  <item card_num="5" island_id="0x0a07" island_name="莓莓音乐节(夜)" strategy="夜晚的音乐节场地被酸性果汁淹没，果汁会腐蚀美食,使用麦芽糖能持久抵抗它的腐蚀,果汁也让老鼠更加疯狂,千万小心。" type="雷城夜晚"> 
+	<card card_id="0x11110014" card_name="小火炉"/>
+	<card card_id="0x11120034" card_name="可乐炸弹"/>
+	<card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+	<card card_id="0x11120460" card_name="炙烤灯笼鱼"/>
+	<card card_id="0x11370060" card_name="麦芽糖"/>
+  </item>  
+  <item card_num="3" island_id="0x0032" island_name="雪宝棒棒冰(日)" strategy="雪山时不时会出现大范围的暴风雪,带上海盐粉,可以给不小心被冻住的美食卡片解冻。" type="雪山白天"> 
+	<card card_id="0x11110014" card_name="小火炉"/>	
+	<card card_id="0x11121030" card_name="海盐粉"/>
+    <card card_id="0x11930074" card_name="狮子座精灵"/> 
+  </item>
+  <item card_num="4" island_id="0x0238" island_name="雪宝棒棒冰(夜)" strategy="零散的冰块会挡住直线子弹的攻击，建议使用投掷类卡片。" type="雪山夜晚"> 
+	<card card_id="0x11110014" card_name="小火炉"/>
+	<card card_id="0x11121030" card_name="海盐粉"/>
+	<card card_id="0x111300a0" card_name="煮蛋器投手"/>
+    <card card_id="0x11930074" card_name="狮子座精灵"/>
+  </item>
+  <item card_num="5" island_id="0x0033" island_name="冰巨人雪芭(日)" strategy="雪球鼠的大雪球攻击又快又猛,可以将卡片放在后方避免被雪球碾压,也要注意投冰车,它会攻击最后一格的美食，" type="雪山白天"> 
+	<card card_id="0x11110014" card_name="小火炉"/>
+	<card card_id="0x11121030" card_name="海盐粉"/>
+	<card card_id="0x111300a0" card_name="煮蛋器投手"/>
+	<card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+    <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  </item>
+  <item card_num="5" island_id="0x0239" island_name="冰巨人雪芭(夜)" strategy="暴风雪越来越频繁了，注意及时解冻被冻住的美食，可以带上冰激凌，或许会让海盐粉效率提高。" type="雪山夜晚"> 
+	<card card_id="0x11110014" card_name="小火炉"/>
+	<card card_id="0x11121030" card_name="海盐粉"/>
+	<card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+    <card card_id="0x11240010" card_name="瓜皮护罩"/>
+	<card card_id="0x113901d0" card_name="冰激凌"/>
+  </item>
+  <item card_num="5" island_id="0x0a05" island_name="爱莎星冰乐" strategy="从天而降的爱莎梦幻却十分危险,糖葫芦会是很好的助力,注意用护罩保护好自己,爱莎的冰刺会攻击人物!" type="雪山夜晚">
+	<card card_id="0x11110014" card_name="小火炉"/>
+	<card card_id="0x11121030" card_name="海盐粉"/>
+	<card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+    <card card_id="0x11240010" card_name="瓜皮护罩"/>
+	<card card_id="0x113901d0" card_name="冰激凌"/>
+  </item> 
+  
+  <item card_num="2" island_id="0x0051" island_name="兔子洞(日)" strategy="注意观察下雨的规律，避开下雨区域种卡可以避免损卡，另外要小心地下的老鼠。" type="奇境白天"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>  
+  <card card_id="0x11930074" card_name="狮子座精灵"/>    
+  </item>
+  <item card_num="4" island_id="0x0254" island_name="兔子洞(夜)" strategy="炸炸菇可以清除雨水产生的蘑菇，记得使用油灯照亮迷雾中的老鼠。" type="奇境夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11120680" card_name="炸炸菇"/>
+  <card card_id="0x11930074" card_name="狮子座精灵"/>    
+  <card card_id="0x11191160" card_name="油灯"/>   
+  </item>
+  <item card_num="5" island_id="0x0052" island_name="蘑菇小径（日）" strategy="注意贪吃鼠，别让它吃到你的卡片，最好及早消灭它。" type="奇境白天"> 
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11120680" card_name="炸炸菇"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>
+  <card card_id="0x11120690" card_name="耗油双菇"/> 
+  <card card_id="0x11191160" card_name="油灯"/>
+  </item> 
+  <item card_num="5" island_id="0x0255" island_name="蘑菇小径(夜)" strategy="最后两列是相对安全的区域，这关需要足够的防空火力，要及早安排上。" type="奇境夜晚"> 
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11120680" card_name="炸炸菇"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>  
+  <card card_id="0x11120690" card_name="耗油双菇"/>
+  <card card_id="0x11191160" card_name="油灯"/>   
+  </item> 
+  <item card_num="6" island_id="0x080d" island_name="午茶庭院(日)" strategy="四处飞舞的玫瑰花瓣会伤害卡片，建议为卡片套上护罩,另外小心茶壶装甲鼠的穿透蒸汽。" type="奇境白天"> 
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11120680" card_name="炸炸菇"/>
+  <card card_id="0x11130280" card_name="糖葫芦炮弹"/>  
+  <card card_id="0x11120690" card_name="耗油双菇"/>
+  <card card_id="0x11191160" card_name="油灯"/> 
+  <card card_id="0x11930074" card_name="狮子座精灵"/> 
+  </item>  
+ <item card_num="6" island_id="0x0053" island_name="玫瑰花园(日)" strategy="注意清除小扑克兵，有越多扑克兵助阵，巨型扑克兵越强。" type="奇境白天"> 
+  <card card_id="0x11120750" card_name="扑克牌护罩"/>
+  <card card_id="0x11120680" card_name="炸炸菇"/> 
+  <card card_id="0x11120690" card_name="耗油双菇"/>
+  <card card_id="0x11191160" card_name="油灯"/> 
+  <card card_id="0x11930074" card_name="狮子座精灵"/> 
+  </item>    
+  <item card_num="5" island_id="0x0256" island_name="玫瑰花园(夜)" strategy="萤火虫小鼠和迷雾鼠的组合是最令人头疼的，注意保护油灯。" type="奇境夜晚"> 
+  <card card_id="0x11120750" card_name="扑克牌护罩"/>
+  <card card_id="0x11120680" card_name="炸炸菇"/> 
+  <card card_id="0x11130150" card_name="雷电长棍面包"/>  
+  <card card_id="0x11191160" card_name="油灯"/> 
+  <card card_id="0x11930074" card_name="狮子座精灵"/> 
+  </item>  
+  <item card_num="7" island_id="0x1a01" island_name="悬浮梦境(夜)" strategy="疯狂爱丽丝会有一段虚弱时间,要抓住时机噢!" type="奇境夜晚"> 
+  <card card_id="0x11120750" card_name="扑克牌护罩"/> 
+  <card card_id="0x11370025" card_name="棉花糖"/>
+  <card card_id="0x11120680" card_name="炸炸菇"/>
+  <card card_id="0x11120760" card_name="怪味鱿鱼"/>
+  <card card_id="0x11430030" card_name="章鱼烧"/> 
+  <card card_id="0x11191160" card_name="油灯"/> 
+  <card card_id="0x11930074" card_name="狮子座精灵"/> 
+  </item>
+  <item card_num="5" island_id="0x005e" island_name="糖球空间站(日)" strategy="欢迎来到星际之旅的始发站,请注意天上漂浮的悬浮粒,在它们落地的间隙使用面粉袋回击！" type="太空白天"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  </item>
+  <item card_num="5" island_id="0x0261" island_name="糖球空间站(夜)" strategy="夜晚的空间站启动了糖球激光,注意让卡片远离这些伤害源,或者使用高体力卡片隔断激光与其他卡片的接触。" type="太空夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  </item>
+  <item card_num="7" island_id="0x0127" island_name="苏打水星(日)" strategy="星际旅游圣地-苏打水星有着活跃的吸管喷泉,吸管采用特殊材质,会阻隔直线子弹,建议使用投掷类卡片砸沉它们,或者用冰桶炸弹让它们冷静一下。" type="太空白天"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11121020" card_name="冰桶炸弹"/>
+  </item>
+  <item card_num="7" island_id="0x0322" island_name="苏打水星(夜)" strategy="黏团鼠会慢慢爬过美食而不受到攻击,建议使用面包类卡片使其暴露。喷泉口的数量更多了,要针对性摆放瓜皮护罩保护卡片。" type="太空夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11121020" card_name="冰桶炸弹"/>
+  </item>
+  <item card_num="6" island_id="0x8a01" island_name="汉堡王星" strategy="汉堡风格的街道会左右来回移动,小番茄之间的激光会不断伤害卡片,组合使用瓜皮护罩和面包类卡以保护阵型。悬浮粒的行踪有所改变，组队挑战会更容易应对哦。" type="太空夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x111300f0" card_name="汉堡包"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11122220" card_name="香辣年糕蟹"/>
+  <card card_id="0x11122230" card_name="微波炉爆弹"/>
+  </item>
+  <item card_num="6" island_id="0x005f" island_name="巴旦木星(日)" strategy="巴旦木星有着强大的地磁场，使美食卡片子弹对老鼠无法造成伤害，足够多的火苗能量可以消除地磁的能量。" type="太空白天"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11121060" card_name="防风草沙拉"/>
+  <card card_id="0x11122220" card_name="香辣年糕蟹"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  </item>
+  <item card_num="5" island_id="0x0262" island_name="巴旦木星(夜)" strategy="夜晚会出现两团地磁场，要留心注意运输鼠和咕噜鼠的能力，使用鱼刺类卡片防止它们冲破防线。" type="太空夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11121060" card_name="防风草沙拉"/>
+  <card card_id="0x11122220" card_name="香辣年糕蟹"/>
+  <card card_id="0x11120034" card_name="可乐炸弹"/>
+  <card card_id="0x11130120" card_name="鱼刺"/>
+  </item>
+  <item card_num="4" island_id="0x8011" island_name="冷萃星环(日)" strategy="前期依靠飞船甲板多多放置火苗卡片，等待咖啡豆聚集完成再布置前排。尝试在老鼠破坏咖啡豆上的卡片前铲掉美食。" type="太空白天"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11122220" card_name="香辣年糕蟹"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11121020" card_name="冰桶炸弹"/>
+  </item>
+  <item card_num="6" island_id="0x8213" island_name="冷萃星环(夜)" strategy="夜晚的星环会生成冰块障碍物，要尽快打破它们。在后排使用高血量卡片抵挡星舰鼠的攻击，记得携带减速卡片熄灭BOSS召唤的熔炉。" type="太空夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11122220" card_name="香辣年糕蟹"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11121020" card_name="冰桶炸弹"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  </item>
+  <item card_num="5" island_id="0x0a08" island_name="多拿滋星云" strategy="中心区域会不断生成可种卡的地块，但也要小心老鼠破坏卡片，前期多多放置火苗卡片，预备足够的火苗。" type="太空夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11122220" card_name="香辣年糕蟹"/>
+  <card card_id="0x11122230" card_name="微波炉爆弹"/>
+  </item>
+  <item card_num="5" island_id="0x0325" island_name="谷神殿" strategy="中间水道围成的区域是能量球会出现的范围，使用油灯引导它们生成，保护阵型不被破坏。" type="奇遇夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11191160" card_name="油灯"/>
+  </item>
+  <item card_num="6" island_id="0x0326" island_name="星渊岛" strategy="深入星渊岛后，能量球生成的频率加快了一些，小心健将鼠的突击，尝试用面粉袋或钢丝球处理掉它。" type="奇遇夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11430020" card_name="钢丝球"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11191160" card_name="油灯"/>
+  </item>
+  <item card_num="5" island_id="0x0129" island_name="琉璃沙堡" strategy="能量球间会形成激光伤害卡片和老鼠，多个礁石阻碍了直线子弹，投掷类卡片会更有优势，小心潜伏的保罗触手，出现的时候用炸弹击退它。" type="奇遇白天"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11140014" card_name="土司面包"/>
+  </item>
+  <item card_num="6" island_id="0x120b" island_name="吉拉朵港" strategy="前期能量球会生成大量老鼠，后期则会形成激光，注意放置油灯的位置。建议使用香辣年糕蟹消灭烟花鼠。" type="奇遇夜晚"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11122220" card_name="香辣年糕蟹"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  <card card_id="0x111300d0" card_name="面粉袋"/>
+  <card card_id="0x11240010" card_name="瓜皮护罩"/>
+  <card card_id="0x11191160" card_name="油灯"/>
+  </item>
+  <item card_num="4" island_id="0x0075" island_name="松露大厅(日)" strategy="探秘龙渊前的集合点，先锋鼠军最薄弱的关卡，但也不能掉以轻心。使用两个桥头米线可以封印镇龙柱，获得免疫睡眠的卡片增益。" type="龙渊白天"> 
+  <card card_id="0x11110014" card_name="小火炉"/>
+  <card card_id="0x11140020" card_name="巧克力面包"/>
+  <card card_id="0x11122870" card_name="桥头米线"/>
+  <card card_id="0x111300a0" card_name="煮蛋器投手"/>
+  </item>
+  <item card_num="5" island_id="0x032b" island_name="松露大厅(夜)" strategy="夜晚的大厅出现了更多待封印的镇龙柱，需要合理安排米线的位置。部分老鼠会在夜晚变身，红柳烤串机可以轻松击败它们。" type="龙渊夜晚"> 
+  <card card_id="0x11111024" card_name="酒杯灯"/>
+  <card card_id="0x11190150" card_name="换气扇"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11122870" card_name="桥头米线"/>
+  <card card_id="0x11122890" card_name="红柳烤串机"/>
+  </item>
+  <item card_num="" island_id="0x0b05" island_name="百味关" strategy="百味关的河流穿过了战斗区域，别忘了带上木盘子。桥头米线封印镇龙柱后可以得到免除伤害的卡片增益。小心东风鼠，使用换气扇将它们送回老家。" type="龙渊夜晚"> 
+  <card card_id="0x11111024" card_name="酒杯灯"/>
+  <card card_id="0x11190150" card_name="换气扇"/>
+  <card card_id="0x11370015" card_name="木盘子"/>
+  <card card_id="0x11140020" card_name="巧克力面包"/>
+  <card card_id="0x11122870" card_name="桥头米线"/>
+  <card card_id="0x11122880" card_name="灯影花糕"/>
+  <card card_id="0x11122890" card_name="红柳烤串机"/>
+  </item>
+  </map_desc>
