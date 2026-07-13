@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<!--
+ CommBG:普通阶段
+ CommQuickBG:精英阶段
+ BossBG:boss阶段
+-->
+
+	<map id="0x41000A02" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_86.mp3"/><!--美味-神殿集会-->
+	<map id="0x42000A02" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_86.mp3"/><!--火山-神殿集会-->
+	<map id="0x43000A02" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_86.mp3"/><!--浮空-神殿集会-->
+	<map id="0x41000206" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--美味-百鬼夜行-->
+	<map id="0x42000206" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--火山-百鬼夜行-->
+	<map id="0x43000206" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--浮空-百鬼夜行-->
+	<map id="0x41001201" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--美味-峡道空袭-->
+	<map id="0x42001201" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--火山-峡道空袭-->
+	<map id="0x43001201" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--浮空-峡道空袭-->
+	<map id="0x41000105" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--美味-罐头炸弹-->
+	<map id="0x42000105" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--火山-罐头炸弹-->
+	<map id="0x43000105" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--浮空-罐头炸弹-->
+	<map id="0x41000001" CommBG="zhandou_b_03.mp3" CommQuickBG="zhandou_b_83.mp3" BossBG="boss_b_85.mp3"/><!--美味-平民鼠的逆袭-->
+	<map id="0x42000001" CommBG="zhandou_b_03.mp3" CommQuickBG="zhandou_b_83.mp3" BossBG="boss_b_85.mp3"/><!--火山-平民鼠的逆袭-->
+	<map id="0x43000001" CommBG="zhandou_b_03.mp3" CommQuickBG="zhandou_b_83.mp3" BossBG="boss_b_85.mp3"/><!--浮空-平民鼠的逆袭-->
+	<map id="0x41000006" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--美味-拆迁大队-->
+	<map id="0x42000006" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--火山-拆迁大队-->
+	<map id="0x43000006" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--浮空-拆迁大队-->
+	<map id="0x41000805" CommBG="shendian_104.mp3" CommQuickBG="shendian_105.mp3" BossBG="boss_b_106.mp3"/><!--美味-车来了-->
+	<map id="0x42000805" CommBG="shendian_104.mp3" CommQuickBG="shendian_105.mp3" BossBG="boss_b_106.mp3"/><!--火山-车来了-->
+	<map id="0x43000805" CommBG="shendian_104.mp3" CommQuickBG="shendian_105.mp3" BossBG="boss_b_106.mp3"/><!--浮空-车来了-->
+	<map id="0x41000304" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--美味-Exciting!-->
+	<map id="0x42000304" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--火山-Exciting!-->
+	<map id="0x43000304" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--浮空-Exciting!-->
+	<map id="0x41000209" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--美味-施工现场-->
+	<map id="0x42000209" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--火山-施工现场-->
+	<map id="0x43000209" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--浮空-施工现场-->
+	<map id="0x41009008" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/><!--美味-鼠以群聚-->
+	<map id="0x42009008" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/><!--火山-鼠以群聚-->
+	<map id="0x43009008" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/><!--浮空-鼠以群聚-->
+	
+	<map id="0x0213" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--公会本-月光果园1-->
+	<map id="0x0214" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--公会本-月光果园2-->
+	<map id="0x0215" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--公会本-月光果园3-->
+	<map id="0x0216" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--公会本-月光果园4-->
+	<map id="0x0217" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--公会本-月光果园5-->
+	<map id="0x0218" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--公会本-月光果园6-->
+	<map id="0x0219" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_b_85.mp3"/><!--公会本-月光果园7-->
+	<map id="0x021c" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--公会本-堕落深渊1-->
+	<map id="0x021d" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--公会本-堕落深渊2-->
+	<map id="0x021e" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--公会本-堕落深渊3-->
+	<map id="0x021f" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--公会本-堕落深渊4-->
+	<map id="0x0220" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--公会本-堕落深渊5-->
+	<map id="0x0221" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--公会本-堕落深渊6-->
+	<map id="0x0222" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_b_106.mp3"/><!--公会本-堕落深渊7-->
+	<map id="0x0226" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--公会本-死亡之棘1-->
+	<map id="0x0227" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--公会本-死亡之棘2-->
+	<map id="0x0228" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--公会本-死亡之棘3-->
+	<map id="0x0229" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--公会本-死亡之棘4-->
+	<map id="0x022a" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--公会本-死亡之棘5-->
+	<map id="0x022b" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--公会本-死亡之棘6-->
+	<map id="0x022c" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_b_206.mp3"/><!--公会本-死亡之棘7-->
+	
+	<map id="0x0048" CommBG="flashcity_day_0.mp3" CommQuickBG="flashcity_day_1.mp3" BossBG="flashcity_boss.mp3"/><!--72 动感街区（日） -->
+	<map id="0x024e" CommBG="flashcity_night_0.mp3" CommQuickBG="flashcity_night_1.mp3" BossBG="flashcity_boss.mp3"/><!--590 动感街区（夜） -->
+	<map id="0x0049" CommBG="flashcity_day_0.mp3" CommQuickBG="flashcity_day_1.mp3" BossBG="flashcity_boss.mp3"/><!--73 蛋糕钟楼（日） -->
+	<map id="0x024f" CommBG="flashcity_night_0.mp3" CommQuickBG="flashcity_night_1.mp3" BossBG="flashcity_boss.mp3"/><!--591 蛋糕钟楼（夜） -->
+	<map id="0x080c" CommBG="flashcity_day_0.mp3" CommQuickBG="flashcity_day_1.mp3" BossBG="flashcity_boss.mp3"/><!--2060 莓莓音乐节（日） -->
+	<map id="0x0a07" CommBG="flashcity_night_0.mp3" CommQuickBG="flashcity_night_1.mp3" BossBG="flashcity_boss_mj.mp3"/><!--2567 莓莓音乐节（夜） -->
+
+	
+
+	<map id="0x0258" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/>
+	<map id="0x0120" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="festival_boss_1.mp3"/>
+	<map id="0x0319" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/>
+	<map id="0x0259" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_107.mp3"/>
+	<map id="0x0056" CommBG="shendian_204.mp3" CommQuickBG="shendian_205.mp3" BossBG="boss_y_107.mp3"/>
+	<map id="0x8010" CommBG="shendian_204.mp3" CommQuickBG="shendian_205.mp3" BossBG="boss_y_107.mp3"/>
+	<map id="0x031a" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_107.mp3"/>
+ 
+	<map id="0x0309" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_107.mp3"/> 
+	<map id="0x0307" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_107.mp3"/> 
+	<map id="0x0308" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_107.mp3"/>
+	
+	<map id="0x003d" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/>
+	<map id="0x900b" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/>
+	<map id="0x800e" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/>
+	
+	<map id="0x0057" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/><!--"曲奇公路1日"-->
+	<map id="0x025a" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--"曲奇公路2夜"-->
+	<map id="0x0058" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/><!--"曲奇公路3日"-->
+	<map id="0x025b" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--"曲奇公路4夜"-->
+	
+	<map id="0x0122" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/><!--"咖啡温泉-雾气"-->
+	<map id="0x0123" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/><!--"咖啡温泉-秋蟹"-->
+	<map id="0x031c" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--"咖啡温泉-冰火"-->
+	<map id="0x031d" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--"假期温泉"-->
+	
+	<map id="0x025e" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--"椰云餐厅-团团"-->
+	<map id="0x8210" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--"椰云餐厅-圆圆"-->
+	<map id="0x8211" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--"椰云餐厅-转转"-->
+	<map id="0x1208" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--"假期餐厅"-->
+	
+		
+	<map id="0x002a" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--"全域大作战2"-->
+	
+	
+    <map id="0x0232" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_86.mp3"/><!--"野蜂飞舞1"-->
+	<map id="0x001f" CommBG="shendian_104.mp3" CommQuickBG="shendian_105.mp3" BossBG="boss_y_107.mp3"/><!--"野蜂飞舞2"-->
+	<map id="0x8204" CommBG="shendian_204.mp3" CommQuickBG="shendian_205.mp3" BossBG="boss_y_207.mp3"/><!--"野蜂飞舞3"-->
+	
+	<map id="0x023f" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"点点星芒夜1"-->
+	<map id="0x030c" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"点点星芒夜2"-->
+	<map id="0x0240" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"点点星芒夜3"-->
+	
+	<map id="0x020b" CommBG="zhandou_y_04.mp3" CommQuickBG="zhandou_y_84.mp3" BossBG="boss_y_86.mp3"/><!--"美味演练1"-->
+	<map id="0x080a" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--"火山演练2"-->
+	<map id="0x820c" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--"浮空演练3"-->
+	
+	<map id="0x023a" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="festival_boss_1.mp3"/><!--"云汉舞会1"-->
+	<map id="0x023b" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/><!--"云汉舞会2"-->
+	<map id="0x1207" CommBG="alice_day_2.mp3" CommQuickBG="alice_day_2.mp3" BossBG="festival_boss_1.mp3"/><!--"云汉舞会3"-->
+	
+	<map id="0x0103" CommBG="zhandou_b_03.mp3" CommQuickBG="zhandou_b_83.mp3" BossBG="boss_b_85.mp3"/><!--"逆水行舟1"-->
+	<map id="0x0109" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--"逆水行舟2"-->
+	<map id="0x8104" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_206.mp3"/><!--"逆水行舟3"-->
+	
+	<map id="0x002d" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="alice_boss_hz.mp3"/><!--甜蜜冲击队1-->
+	<map id="0x002e" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="alice_boss_hz.mp3"/><!--甜蜜冲击队2-->
+	<map id="0x002f" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="alice_boss_hz.mp3"/><!--甜蜜冲击队3-->
+	
+	<map id="0x0249" CommBG="kuafu_night_0.mp3" CommQuickBG="kuafu_night_0.mp3" BossBG="kuafuboss_night_0.mp3"/><!--万圣夜1-->
+	<map id="0x024a" CommBG="kuafu_night_0.mp3" CommQuickBG="kuafu_night_0.mp3" BossBG="kuafuboss_night_0.mp3"/><!--万圣夜2-->
+	<map id="0x024b" CommBG="kuafu_night_0.mp3" CommQuickBG="kuafu_night_0.mp3" BossBG="kuafuboss_night_0.mp3"/><!--万圣夜3-->
+	
+	<map id="0x0124" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="boss_b_85.mp3"/><!--鲜果泳池1-->
+	<map id="0x031e" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="boss_y_107.mp3"/><!--鲜果泳池2-->
+	<map id="0x031f" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/><!--鲜果泳池3-->
+	<map id="0x0125" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="boss_b_106.mp3"/><!--鲜果泳池4-->
+	
+	<map id="0x004f" CommBG="zhandou_b_03.mp3" CommQuickBG="zhandou_b_83.mp3" BossBG="boss_b_85.mp3"/><!--奶酪的诱惑1-->
+	<map id="0x0050" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--奶酪的诱惑2-->
+	<map id="0x0253" CommBG="zhandou_y_101.mp3" CommQuickBG="zhandou_y_103.mp3" BossBG="boss_y_107.mp3"/><!--奶酪的诱惑3-->
+	
+	<map id="0x0036" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="boss_b_85.mp3"/><!--欢乐颂1-->
+	<map id="0x023d" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="boss_y_107.mp3"/><!--欢乐颂2-->
+	<map id="0x023e" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/><!--欢乐颂3-->
+	
+	<map id="0x0117" CommBG="zhandou_b_03.mp3" CommQuickBG="zhandou_b_83.mp3" BossBG="boss_b_85.mp3"/><!--279 豆丁的清汤锅 -->
+    <map id="0x030e" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="boss_y_107.mp3"/><!--782 豆丁的鸳鸯锅 -->
+    <map id="0x004b" CommBG="festival_common_1.mp3" CommQuickBG="festival_common_1.mp3" BossBG="boss_b_106.mp3"/><!--75 豆丁的麻辣锅 -->
+	
+	<map id="0x0043" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="boss_b_85.mp3"/><!--年货大采购1-->
+	<map id="0x8006" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="boss_y_107.mp3"/><!--年货大采购2-->
+	<map id="0x0248" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/><!--年货大采购3-->
+	
+	<map id="0x005c" CommBG="festival_day_2.mp3" CommQuickBG="festival_day_2.mp3" BossBG="festival_boss_2.mp3"/><!--画龙点睛1-->
+	<map id="0x005d" CommBG="festival_day_2.mp3" CommQuickBG="festival_day_2.mp3" BossBG="festival_boss_2.mp3"/><!--画龙点睛2-->
+	<map id="0x025f" CommBG="festival_night_2.mp3" CommQuickBG="festival_night_2.mp3" BossBG="festival_boss_2.mp3"/><!--画龙点睛3-->
+	
+	<map id="0x0030" CommBG="alice_day_1.mp3" CommQuickBG="alice_day_1.mp3" BossBG="alice_boss.mp3"/><!--48 粟蕊园漫步1-->
+	<map id="0x0031" CommBG="alice_day_1.mp3" CommQuickBG="alice_day_1.mp3" BossBG="alice_boss.mp3"/><!--49 粟蕊园漫步2-->
+	<map id="0x010d" CommBG="alice_day_1.mp3" CommQuickBG="alice_day_2.mp3" BossBG="alice_boss.mp3"/><!--269 粟蕊园漫步3-->
+	<map id="0x0232" CommBG="festival_night_2.mp3" CommQuickBG="festival_night_2.mp3" BossBG="festival_boss_2.mp3"/><!--562 培植基地-->
+	
+	<map id="0x001a" CommBG="zhandou_b_03.mp3" CommQuickBG="zhandou_b_83.mp3" BossBG="boss_b_85.mp3"/><!--26 酵母防线1-->
+	<map id="0x001b" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="festival_boss_2.mp3"/><!--27 酵母防线2-->
+	<map id="0x8003" CommBG="shendian_204.mp3" CommQuickBG="shendian_205.mp3" BossBG="alice_boss_hz.mp3"/><!--32771 酵母防线3-->
+	
+	<map id="0x010a" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_106.mp3"/><!--266 水与云帆-探风-->
+	<map id="0x010b" CommBG="zhandou_b_200.mp3" CommQuickBG="ocean_day_0.mp3" BossBG="ocean_boss.mp3"/><!--267 水与云帆-扬帆-->
+	<map id="0x010c" CommBG="zhandou_b_200.mp3" CommQuickBG="ocean_day_0.mp3" BossBG="ocean_boss.mp3"/><!--268 水与云帆-启航-->
+	<map id="0x0112" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="flashcity_boss.mp3"/><!--274 水上愚乐园-->
+	
+	<map id="0x0126" CommBG="zhandou_b_03.mp3" CommQuickBG="zhandou_b_83.mp3" BossBG="boss_b_85.mp3"/><!--294 古城-地下河-->
+	<map id="0x1209" CommBG="shendian_104.mp3" CommQuickBG="shendian_105.mp3" BossBG="boss_b_106.mp3"/><!--4617 古城-机关云桥-->
+	<map id="0x0260" CommBG="shendian_204.mp3" CommQuickBG="shendian_205.mp3" BossBG="boss_y_107.mp3"/><!--608 古城-流心之核-->
+	<map id="0x0321" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="boss_y_107.mp3"/><!--801 微光回廊-->
+	
+	<map id="0x1202" CommBG="flashcity_night_0.mp3" CommQuickBG="flashcity_night_0.mp3" BossBG="boss_y_107.mp3"/><!--4610 云端的梦想1-->
+	<map id="0x9007" CommBG="flashcity_day_0.mp3" CommQuickBG="flashcity_day_0.mp3" BossBG="boss_b_85.mp3"/><!--36871 云端的梦想2-->
+	<map id="0x800b" CommBG="flashcity_day_0.mp3" CommQuickBG="flashcity_day_0.mp3" BossBG="boss_b_106.mp3"/><!--32779 云端的梦想3-->
+	
+	<map id="0x003e" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="festival_boss_2.mp3"/><!--62 追忆马戏团1-->
+	<map id="0x003f" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="festival_boss_2.mp3"/><!--63 追忆马戏团2-->
+	<map id="0x0040" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="festival_boss_1.mp3"/><!--64 追忆马戏团3-->
+	<map id="0x030d" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/><!--781 马戏团之夜-->
+	
+	<map id="0x0041" CommBG="zhandou_b_03.mp3" CommQuickBG="zhandou_b_83.mp3" BossBG="boss_b_85.mp3"/><!--65 海港-靠港 -->
+	<map id="0x0042" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--66 海港-卸载 -->
+	<map id="0x8004" CommBG="flashcity_day_0.mp3" CommQuickBG="flashcity_day_0.mp3" BossBG="boss_y_107.mp3"/><!--32772 海港-出坞 -->
+
+	<map id="0x0061" CommBG="space_day_1.mp3" CommQuickBG="space_day_2.mp3" BossBG="space_boss_1.mp3"/><!--97 空间港1号口 -->
+	<map id="0x8214" CommBG="space_night_1.mp3" CommQuickBG="space_night_2.mp3" BossBG="space_boss_1.mp3"/><!--33300 空间港2号口 -->
+	<map id="0x8215" CommBG="space_night_1.mp3" CommQuickBG="space_night_2.mp3" BossBG="space_boss_1.mp3"/><!--33301 空间港3号口 -->
+	<map id="0x8216" CommBG="space_night_1.mp3" CommQuickBG="space_night_2.mp3" BossBG="space_boss_1.mp3"/><!--33302 星际漫步 -->
+
+	<map id="0x0037" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--55 奇异屋1-光秃秃 -->
+    <map id="0x0038" CommBG="shendian_104.mp3" CommQuickBG="shendian_105.mp3" BossBG="boss_b_106.mp3"/><!--56 奇异屋2-咕碌碌 -->
+    <map id="0x0039" CommBG="shendian_204.mp3" CommQuickBG="shendian_205.mp3" BossBG="boss_b_106.mp3"/><!--57 奇异屋3-热腾腾 -->
+    <map id="0x0111" CommBG="zhandou_b_100.mp3" CommQuickBG="zhandou_b_102.mp3" BossBG="boss_b_106.mp3"/><!--273 水与火屋 -->
+
+	<map id="0x0062" CommBG="festival_common_1.mp3" CommQuickBG="festival_elite_1.mp3" BossBG="festival_boss_1.mp3"/><!--98 回忆打包店1 -->
+	<map id="0x0063" CommBG="festival_common_1.mp3" CommQuickBG="festival_elite_1.mp3" BossBG="festival_boss_1.mp3"/><!--99 回忆打包店2 -->
+	<map id="0x0064" CommBG="festival_common_1.mp3" CommQuickBG="festival_elite_1.mp3" BossBG="festival_boss_1.mp3"/><!--100 回忆打包店3 -->
+	<map id="0x8217" CommBG="festival_common_1.mp3" CommQuickBG="festival_elite_1.mp3" BossBG="festival_boss_1.mp3"/><!--33303 回忆打包店4 -->
+	<map id="0x0264" CommBG="festival_common_1.mp3" CommQuickBG="festival_elite_1.mp3" BossBG="festival_boss_1.mp3"/><!--612 回忆打包店5 -->
+
+	<map id="0x0066" CommBG="festival_day_3.mp3" CommQuickBG="festival_day_3.mp3" BossBG="festival_boss_3.mp3"/><!--102 铜树银花谷1 -->
+    <map id="0x0067" CommBG="festival_day_3.mp3" CommQuickBG="festival_day_3.mp3" BossBG="festival_boss_3.mp3"/><!--103 铜树银花谷2 -->
+    <map id="0x0265" CommBG="festival_night_3.mp3" CommQuickBG="festival_night_3.mp3" BossBG="festival_boss_3.mp3"/><!--613 铜树银花谷3 -->
+    <map id="0x120a" CommBG="festival_night_3.mp3" CommQuickBG="festival_night_3.mp3" BossBG="festival_boss_3.mp3"/><!--4618 铜树银花谷4 -->
+
+    <map id="0x0068" CommBG="hunian_01.mp3" CommQuickBG="hunian_01.mp3" BossBG="festival_boss_1.mp3"/><!--104 扫除1-开工 -->
+    <map id="0x0069" CommBG="festival_day_2.mp3" CommQuickBG="festival_day_2.mp3" BossBG="festival_boss_1.mp3"/><!--105 扫除2-洗刷刷 -->
+    <map id="0x006a" CommBG="festival_elite_1.mp3" CommQuickBG="festival_elite_1.mp3" BossBG="festival_boss_2.mp3"/><!--106 扫除3-好帮手 -->
+    <map id="0x006b" CommBG="festival_elite_1.mp3" CommQuickBG="festival_elite_1.mp3" BossBG="festival_boss_2.mp3"/><!--107 扫除4-杂物 -->
+    <map id="0x006c" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="festival_boss_1.mp3"/><!--108 扫除休息日 -->
+
+	<map id="0x004c" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="space_boss_1.mp3"/><!--76 妙味甜点屋1 -->
+    <map id="0x0250" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="space_boss_1.mp3"/><!--592 妙味甜点屋2 -->
+    <map id="0x0311" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="space_boss_1.mp3"/><!--785 妙味甜点屋3 -->
+    <map id="0x0310" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="space_boss_1.mp3"/><!--784 妙味甜点屋4 -->
+	
+	<map id="0x0263" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_86.mp3"/><!--611 陈迹神殿 -->
+    <map id="0x0323" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_86.mp3"/><!--803 涟漪深渊 -->
+    <map id="0x0128" CommBG="shendian_104.mp3" CommQuickBG="shendian_105.mp3" BossBG="boss_b_106.mp3"/><!--296 残影港口 -->
+    <map id="0x0060" CommBG="shendian_104.mp3" CommQuickBG="shendian_105.mp3" BossBG="boss_y_107.mp3"/><!--96 余晖火山 -->
+	
+	<map id="0x006d" CommBG="flashcity_day_0.mp3" CommQuickBG="flashcity_day_1.mp3" BossBG="space_boss_1.mp3"/><!--109 酒庄1-酢浆草 -->
+	<map id="0x006e" CommBG="flashcity_day_0.mp3" CommQuickBG="flashcity_day_1.mp3" BossBG="space_boss_1.mp3"/><!--110 酒庄2-果味炮 -->
+	<map id="0x0267" CommBG="flashcity_night_0.mp3" CommQuickBG="flashcity_night_1.mp3" BossBG="space_boss_2.mp3"/><!--615 酒庄3-开瓶器 -->
+	<map id="0x0268" CommBG="flashcity_night_0.mp3" CommQuickBG="flashcity_night_1.mp3" BossBG="space_boss_2.mp3"/><!--616 酒庄4-晕乎乎 -->
+	<map id="0x0266" CommBG="flashcity_night_0.mp3" CommQuickBG="flashcity_night_1.mp3" BossBG="space_boss_2.mp3"/><!--614 泡泡喷泉 -->
+
+	<map id="0x0237" CommBG="festival_common_1.mp3" CommQuickBG="festival_elite_1.mp3" BossBG="flashcity_boss.mp3"/><!--567 吵闹游乐场1 -->
+	<map id="0x0026" CommBG="flashcity_day_1.mp3" CommQuickBG="flashcity_day_1.mp3" BossBG="flashcity_boss.mp3"/><!--38 吵闹游乐场2 -->
+	<map id="0x0027" CommBG="flashcity_day_1.mp3" CommQuickBG="flashcity_day_1.mp3" BossBG="flashcity_boss.mp3"/><!--39 吵闹游乐场3 -->
+	<map id="0x0235" CommBG="festival_common_1.mp3" CommQuickBG="festival_elite_1.mp3" BossBG="flashcity_boss.mp3"/><!--565 吵闹游乐场4 -->
+	
+	<map id="0x0114" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_106.mp3"/><!--276 龙舟赛2 -->
+	<map id="0x0115" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_106.mp3"/><!--277 龙舟赛3 -->
+	<map id="0x0116" CommBG="shendian_104.mp3" CommQuickBG="shendian_105.mp3" BossBG="boss_b_106.mp3"/><!--278 龙舟赛4 -->
+	<map id="0x030a" CommBG="festival_night_2.mp3" CommQuickBG="festival_night_2.mp3" BossBG="boss_y_107.mp3"/><!--778 天宫之舟 -->
+	
+	<map id="0x0070" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_106.mp3"/><!--112 樱桃派天空1-多云 -->
+	<map id="0x1004" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_106.mp3"/><!--4100 樱桃派天空2-晴空 -->
+	<map id="0x120d" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_107.mp3"/><!--4621 樱桃派天空3-月虹 -->
+	<map id="0x120e" CommBG="shendian_204.mp3" CommQuickBG="shendian_205.mp3" BossBG="kuafuboss_night_0.mp3"/><!--4622 樱桃派天空4-风暴 -->
+	<map id="0x1005" CommBG="zhandou_b_200.mp3" CommQuickBG="zhandou_b_202.mp3" BossBG="boss_b_106.mp3"/><!--4101 樱桃派天空5-流云 -->
+	
+	<map id="0x026a" CommBG="festival_farm_night.mp3" CommQuickBG="festival_farm_night.mp3" BossBG="festival_farm_boss.mp3"/><!--618 农场1-黎明前 -->
+	<map id="0x012a" CommBG="festival_farm_day.mp3" CommQuickBG="festival_farm_day.mp3" BossBG="festival_farm_boss.mp3"/><!--298 农场2-打水井 -->
+	<map id="0x8218" CommBG="festival_farm_night.mp3" CommQuickBG="festival_farm_night.mp3" BossBG="festival_farm_boss.mp3"/><!--33304 农场3-传送带 -->
+	<map id="0x012b" CommBG="festival_farm_day.mp3" CommQuickBG="festival_farm_day.mp3" BossBG="festival_farm_boss.mp3"/><!--299 农场4-大仓满 -->
+	<map id="0x012c" CommBG="festival_farm_day.mp3" CommQuickBG="festival_farm_day.mp3" BossBG="festival_farm_boss.mp3"/><!--300 蓄水指南 -->
+
+	<map id="0x0072" CommBG="festival_knight_day.mp3" CommQuickBG="festival_knight_day.mp3" BossBG="festival_knight_boss.mp3"/><!--114 骑士日1 -->
+	<map id="0x0327" CommBG="festival_knight_night.mp3" CommQuickBG="festival_knight_night.mp3" BossBG="festival_knight_boss.mp3"/><!--807 骑士日2 -->
+	<map id="0x0073" CommBG="festival_knight_day.mp3" CommQuickBG="festival_knight_day.mp3" BossBG="festival_knight_boss.mp3"/><!--115 骑士日3 -->
+	<map id="0x8219" CommBG="festival_knight_night.mp3" CommQuickBG="festival_knight_night.mp3" BossBG="festival_knight_boss.mp3"/><!--33305 骑士日4 -->
+
+	<map id="0x026b" CommBG="hunian_01.mp3" CommQuickBG="hunian_01.mp3" BossBG="festival_boss_1.mp3"/><!--619 元宵大排档1 -->
+	<map id="0x026c" CommBG="festival_night_3.mp3" CommQuickBG="festival_night_3.mp3" BossBG="festival_boss_1.mp3"/><!--620 元宵大排档2 -->
+	<map id="0x821a" CommBG="festival_night_2.mp3" CommQuickBG="festival_night_2.mp3" BossBG="festival_boss_2.mp3"/><!--33306 元宵大排档3 -->
+	<map id="0x821b" CommBG="festival_night_2.mp3" CommQuickBG="festival_night_2.mp3" BossBG="festival_boss_2.mp3"/><!--33307 元宵大排档4 -->
+	<map id="0x026d" CommBG="festival_night_2.mp3" CommQuickBG="festival_night_2.mp3" BossBG="festival_boss_2.mp3"/><!--621 元宵大排档5 -->
+	
+	<map id="0x012d" CommBG="festival_farm_day.mp3" CommQuickBG="festival_farm_day.mp3" BossBG="festival_farm_boss.mp3"/><!--301 呱呱瀑布1 -->
+	<map id="0x012e" CommBG="festival_farm_day.mp3" CommQuickBG="festival_farm_day.mp3" BossBG="festival_farm_boss.mp3"/><!--302 呱呱瀑布2 -->
+	<map id="0x0328" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="boss_y_107.mp3"/><!--808 呱呱瀑布3 -->
+	<map id="0x0329" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_107.mp3"/><!--809 呱呱瀑布4 -->
+	<map id="0x032a" CommBG="festival_farm_night.mp3" CommQuickBG="festival_farm_night.mp3" BossBG="boss_y_107.mp3"/><!--810 呱呱瀑布5 -->
+	
+	<map id="0x004e" CommBG="hunian_01.mp3" CommQuickBG="hunian_01.mp3" BossBG="festival_boss_1.mp3"/><!--78 空中花园1 -->
+	<map id="0x0251" CommBG="festival_night_3.mp3" CommQuickBG="festival_night_3.mp3" BossBG="festival_boss_1.mp3"/><!--593 空中花园2 -->
+	<map id="0x1301" CommBG="festival_night_2.mp3" CommQuickBG="festival_night_2.mp3" BossBG="festival_boss_2.mp3"/><!--4865 空中花园3 -->
+	<map id="0x820e" CommBG="festival_night_2.mp3" CommQuickBG="festival_night_2.mp3" BossBG="festival_boss_2.mp3"/><!--33294 空中花园4 -->
+
+	<map id="0x0059" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"戚风营地(日)"-->
+	<map id="0x025c" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"戚风营地(夜)"-->
+	<map id="0x0121" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"冰啤酒吧(日)"-->
+	<map id="0x031b" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"冰啤酒吧(夜)"-->
+	<map id="0x005a" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"坚果高台(日)"-->
+	<map id="0x025d" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"坚果高台(夜)"-->
+
+	<map id="0x0320" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"冰啤酒吧(夜)"-->
+	<map id="0xA10320" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"冰啤酒吧(夜)"-->	
+	<map id="0xA20320" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"冰啤酒吧(夜)"-->	
+	<map id="0xA30320" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"冰啤酒吧(夜)"-->	
+	<map id="0xA40320" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"冰啤酒吧(夜)"-->	
+	<map id="0xA50320" CommBG="jingji_109.mp3" CommQuickBG="jingji_109.mp3" BossBG="jingji_108.mp3"/><!--"冰啤酒吧(夜)"-->
+	
+	<map id="0x003a" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_107.mp3"/><!--"芦荟沙丘（日）"-->
+	<map id="0x0241" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_107.mp3"/><!--"芦荟沙丘（夜）"-->
+	<map id="0x0904" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_107.mp3"/><!--"沙棘绿洲"-->
+	<map id="0x003b" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_107.mp3"/><!--"仙人掌盆地（日）"-->
+	<map id="0x0242" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_107.mp3"/><!--"仙人掌盆地（夜）"-->
+	<map id="0x0a06" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_107.mp3"/><!--"蜥蜴戈壁"-->
+	<map id="0x003c" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_107.mp3"/><!--"鱼骨沙漠（日）"-->
+	<map id="0x0243" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_107.mp3"/><!--"鱼骨沙漠（夜）"-->
+	<map id="0x080b" CommBG="shendian_87.mp3" CommQuickBG="shendian_88.mp3" BossBG="boss_y_107.mp3"/><!--"库库尔金字塔"-->
+	
+	<map id="0x0032" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="festival_boss_1.mp3"/><!--"雪宝棒棒冰(日)"-->
+	<map id="0x0238" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/><!--"雪宝棒棒冰(夜)"-->
+	<map id="0x0033" CommBG="festival_day_1.mp3" CommQuickBG="festival_day_1.mp3" BossBG="festival_boss_1.mp3"/><!--"冰巨人雪芭(日)"-->
+	<map id="0x0239" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/><!--"冰巨人雪芭(夜)"-->
+	<map id="0x0a05" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="festival_boss_1.mp3"/><!--"爱莎星冰乐"-->
+	
+	<map id="0x005e" CommBG="space_day_1.mp3" CommQuickBG="space_day_2.mp3" BossBG="space_boss_1.mp3"/><!--94 糖球空间站-日 -->
+	<map id="0x0261" CommBG="space_night_1.mp3" CommQuickBG="space_night_2.mp3" BossBG="space_boss_1.mp3"/><!--609 糖球空间站-夜 -->
+	<map id="0x0127" CommBG="space_day_1.mp3" CommQuickBG="space_day_2.mp3" BossBG="space_boss_1.mp3"/><!--295 苏打水星-日 -->
+	<map id="0x0322" CommBG="space_night_1.mp3" CommQuickBG="space_night_2.mp3" BossBG="space_boss_1.mp3"/><!--802 苏打水星-夜 -->
+	<map id="0x8a01" CommBG="space_night_101.mp3" CommQuickBG="space_night_102.mp3" BossBG="space_boss_2.mp3"/><!--35329 汉堡王星-夜 -->
+	<map id="0x005f" CommBG="space_day_1.mp3" CommQuickBG="space_day_2.mp3" BossBG="space_boss_2.mp3"/><!--95 巴旦木星-日 -->
+	<map id="0x0262" CommBG="space_night_1.mp3" CommQuickBG="space_night_2.mp3" BossBG="space_boss_2.mp3"/><!--610 巴旦木星-夜 -->
+	<map id="0x8011" CommBG="space_day_1.mp3" CommQuickBG="space_day_2.mp3" BossBG="space_boss_2.mp3"/><!--32785 冷萃星环-日 -->
+	<map id="0x8213" CommBG="space_night_1.mp3" CommQuickBG="space_night_2.mp3" BossBG="space_boss_2.mp3"/><!--33299 冷萃星环-夜 -->
+	<map id="0x0a08" CommBG="space_night_101.mp3" CommQuickBG="space_night_102.mp3" BossBG="space_boss_2.mp3"/><!--2568 多拿滋星云 -->
+	
+	<map id="0x0325" CommBG="dimension_common_1.mp3" CommQuickBG="dimension_elite_1.mp3" BossBG="dimension_boss_1.mp3"/><!--805 谷神殿 -->
+	<map id="0x0326" CommBG="dimension_common_1.mp3" CommQuickBG="dimension_elite_1.mp3" BossBG="dimension_boss_1.mp3"/><!--806 星渊岛 -->
+	<map id="0x0129" CommBG="dimension_common_2.mp3" CommQuickBG="dimension_elite_2.mp3" BossBG="dimension_boss_2.mp3"/><!--297 琉璃沙堡 -->
+	<map id="0x120b" CommBG="dimension_common_2.mp3" CommQuickBG="dimension_elite_2.mp3" BossBG="dimension_boss_2.mp3"/><!--4619 吉拉朵港 -->
+	
+	<map id="0x0075" CommBG="nether_day_1.mp3" CommQuickBG="nether_day_2.mp3" BossBG="nether_boss_1.mp3"/><!--117 松露大厅(日) -->
+	<map id="0x032b" CommBG="nether_night_1.mp3" CommQuickBG="nether_night_2.mp3" BossBG="nether_boss_1.mp3"/><!--811 松露大厅(夜) -->
+	<map id="0x0b05" CommBG="nether_night_1.mp3" CommQuickBG="nether_night_2.mp3" BossBG="nether_boss_1.mp3"/><!--2821 百味关 -->
+	
+	<map id="0x0252" CommBG="festival_night_1.mp3" CommQuickBG="festival_night_1.mp3" BossBG="dimension_boss_2.mp3"/><!--594 奶酪城堡 -->
+
+	<map id="0x2000820d" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_b_206.mp3"/><!--536904205 绿巨人鼠 -->
+	<map id="0x2000820b" CommBG="zhandou_y_201.mp3" CommQuickBG="zhandou_y_203.mp3" BossBG="boss_y_207.mp3"/><!--536904203 蜘蛛侠鼠 -->
+	<map id="0x2000880e" CommBG="shendian_204.mp3" CommQuickBG="shendian_205.mp3" BossBG="boss_b_206.mp3"/><!--536905742 鼠国高铁三态 -->
+	<map id="0x20000809" CommBG="ocean_day_0.mp3" CommQuickBG="ocean_day_0.mp3" BossBG="ocean_boss.mp3"/><!--536872969 电光水母鼠 -->
+	<map id="0x20000a04" CommBG="ocean_night_0.mp3" CommQuickBG="ocean_night_0.mp3" BossBG="ocean_boss.mp3"/><!--536873476 机械鲨鱼鼠二态 -->
+	
+	<map id="0x70010269" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879114345 废弃快餐店Lv.1 -->
+	<map id="0x70020269" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879179881 废弃快餐店Lv.2 -->
+	<map id="0x70030269" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879245417 废弃快餐店Lv.3 -->
+	<map id="0x70040269" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879310953 废弃快餐店Lv.4 -->
+	<map id="0x70050269" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879376489 废弃快餐店Lv.5 -->
+	<map id="0x70060269" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879442025 废弃快餐店Lv.6 -->
+	<map id="0x70070269" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879507561 废弃快餐店Lv.7 -->
+	
+	<map id="0x7001006f" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879113839 甜蜜游乐园Lv.1 -->
+	<map id="0x7002006f" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879179375 甜蜜游乐园Lv.2 -->
+	<map id="0x7003006f" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879244911 甜蜜游乐园Lv.3 -->
+	<map id="0x7004006f" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879310447 甜蜜游乐园Lv.4 -->
+	<map id="0x7005006f" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879375983 甜蜜游乐园Lv.5 -->
+	<map id="0x7006006f" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879441519 甜蜜游乐园Lv.6 -->
+	<map id="0x7007006f" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879507055 甜蜜游乐园Lv.7 -->
+	
+	<map id="0x7001120c" CommBG="wb_heaven.mp3" CommQuickBG="wb_hell.mp3" BossBG="wb_sec_boss_1.mp3|wb_sec_boss_2.mp3|wb_sec_boss_3.mp3"/><!--1879118348 堕落伊甸园Lv.1 -->
+	<map id="0x7002120c" CommBG="wb_heaven.mp3" CommQuickBG="wb_hell.mp3" BossBG="wb_sec_boss_1.mp3|wb_sec_boss_2.mp3|wb_sec_boss_3.mp3"/><!--1879183884 堕落伊甸园Lv.2 -->
+	<map id="0x7003120c" CommBG="wb_heaven.mp3" CommQuickBG="wb_hell.mp3" BossBG="wb_sec_boss_1.mp3|wb_sec_boss_2.mp3|wb_sec_boss_3.mp3"/><!--1879249420 堕落伊甸园Lv.3 -->
+	<map id="0x7004120c" CommBG="wb_heaven.mp3" CommQuickBG="wb_hell.mp3" BossBG="wb_sec_boss_1.mp3|wb_sec_boss_2.mp3|wb_sec_boss_3.mp3"/><!--1879314956 堕落伊甸园Lv.4 -->
+	<map id="0x7005120c" CommBG="wb_heaven.mp3" CommQuickBG="wb_hell.mp3" BossBG="wb_sec_boss_1.mp3|wb_sec_boss_2.mp3|wb_sec_boss_3.mp3"/><!--1879380492 堕落伊甸园Lv.5 -->
+	<map id="0x7006120c" CommBG="wb_heaven.mp3" CommQuickBG="wb_hell.mp3" BossBG="wb_sec_boss_1.mp3|wb_sec_boss_2.mp3|wb_sec_boss_3.mp3"/><!--1879446028 堕落伊甸园Lv.6 -->
+	<map id="0x7007120c" CommBG="wb_heaven.mp3" CommQuickBG="wb_hell.mp3" BossBG="wb_sec_boss_1.mp3|wb_sec_boss_2.mp3|wb_sec_boss_3.mp3"/><!--1879511564 堕落伊甸园Lv.7 -->
+	
+	<map id="0x70010071" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879113841 蜂蜜冻工厂Lv.1 -->
+	<map id="0x70020071" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879179377 蜂蜜冻工厂Lv.2 -->
+	<map id="0x70030071" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879244913 蜂蜜冻工厂Lv.3 -->
+	<map id="0x70040071" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879310449 蜂蜜冻工厂Lv.4 -->
+	<map id="0x70050071" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879375985 蜂蜜冻工厂Lv.5 -->
+	<map id="0x70060071" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879441521 蜂蜜冻工厂Lv.6 -->
+	<map id="0x70070071" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879507057 蜂蜜冻工厂Lv.7 -->
+	
+	<map id="0x70010074" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879113844 忘忧百事屋Lv.1 -->
+	<map id="0x70020074" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879179380 忘忧百事屋Lv.2 -->
+	<map id="0x70030074" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879244916 忘忧百事屋Lv.3 -->
+	<map id="0x70040074" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879310452 忘忧百事屋Lv.4 -->
+	<map id="0x70050074" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879375988 忘忧百事屋Lv.5 -->
+	<map id="0x70060074" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879441524 忘忧百事屋Lv.6 -->
+	<map id="0x70070074" CommBG="wb_night_1.mp3" CommQuickBG="wb_night_1.mp3" BossBG="wb_top_boss_1.mp3|wb_top_boss_2.mp3|wb_top_boss_3.mp3"/><!--1879507060 忘忧百事屋Lv.7 -->
+</root>
