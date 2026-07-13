@@ -25,3 +25,31 @@ Ruffle is loaded from its official unpkg package, so an internet connection is s
 Ruffle sizing:
 - Mouse animation details use a wide 4:3 player area.
 - Ruffle uses exactFit so the SWF stage fills the player.
+
+Level Maker
+-----------
+- New Level Maker tab with 876 templates from four MapMouse XML files.
+- Edit map metadata, bosses, default cards, mouse roster, per-mouse coordinate strings, and both drop lists.
+- Load templates, import XML, validate, copy/download one item, or build and export a complete MapMouse.xml level set.
+- Draft level sets are saved in browser localStorage.
+- Original XML files are included under assets/level_templates.
+- Mouse IDs are never rewritten; exact IDs are exported.
+
+Roster, animation, and CDN update
+---------------------------------
+- Map detail pages now show the exact MapMouse enemy roster for the matching level template.
+- Each roster entry includes the mouse name, exact ID, type, HP, speed, SWF availability, and both coordinate strings.
+- Clicking a known roster mouse opens its full mouse detail and Ruffle animation.
+- Level Maker mouse rows are visual, draggable, touch-friendly, and keep MouseID, MousePoint, and MouseGamePoint aligned.
+- Level Maker card and mouse rows include quick viewer/CDN buttons.
+- Ruffle details now include pause/play, restart, timeline speed, zoom, background, and fullscreen controls.
+- Card details include both q.ms.huanlecdn image URL patterns.
+- Mouse details include the q.ms.huanlecdn exact-ID SWF URL.
+- Map CDN links remain unconfigured until the map URL pattern is known.
+- An empty .nojekyll file is included so GitHub Pages serves the literal #Uxxxx background filenames.
+
+Card PNG update
+---------------
+- Added 61 additional exact-ID card PNGs under assets/cards.
+- The viewer now recognizes 1030 card IDs with local artwork.
+- Card search, map recommendations, and Level Maker selectors use the new artwork automatically.
